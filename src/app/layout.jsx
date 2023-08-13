@@ -1,5 +1,3 @@
-'use client'
-
 import MainLayout from '@/components/app-bar'
 import { ThemeProvider } from '@/components/theme-provider'
 import '@/styles/globals.css'
