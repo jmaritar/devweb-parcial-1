@@ -31,9 +31,9 @@ const PageContacts = () => {
         {/* Información de contacto */}
         <div className="mb-8 rounded-md bg-white p-6 shadow-lg">
           <h2 className="font-poppins mb-4 font-semibold text-[#282A23]">Información de contacto</h2>
-          <p className="mb-2"><span className="font-semibold">Dirección:</span> 123 Calle Principal, Ciudad, País</p>
-          <p className="mb-2"><span className="font-semibold">Teléfono:</span> +123 456 7890</p>
-          <p className="mb-2"><span className="font-semibold">Correo:</span> info@tudominio.com</p>
+          <p className="mb-2"><span className="font-semibold">Dirección:</span> 123 Calle Principal, Livingston, Izabal, Guatemala</p>
+          <p className="mb-2"><span className="font-semibold">Teléfono:</span> +502 4670 3443</p>
+          <p className="mb-2"><span className="font-semibold">Correo:</span> marioarita502@gmail.com</p>
         </div>
 
         {/* Redes Sociales */}

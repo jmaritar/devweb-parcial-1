@@ -33,8 +33,8 @@ const MainLayout = () => {
                 onClick={() => handleNavigation(item.route, item.id)}
                 className={`group transition-transform duration-300 ease-in-out ${
                   activeRoute === item.id
-                    ? 'font-roboto bg-[#FFE8D6] text-[#282A22] hover:scale-[1.05] hover:bg-[#FFE8D6]'
-                    : 'font-poppins bg-[#282A23] text-[#FFE8D6] hover:scale-[1.05] hover:bg-[#FFE8D6] hover:text-[#282A22]'
+                    ? 'bg-[#FFE8D6] text-[#282A22] hover:scale-[1.05] hover:bg-[#FFE8D6]'
+                    : 'bg-[#282A23] text-[#FFE8D6] hover:scale-[1.05] hover:bg-[#FFE8D6] hover:text-[#282A22]'
                 }`}
               >
                 <div
